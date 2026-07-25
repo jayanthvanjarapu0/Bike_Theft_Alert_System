@@ -96,7 +96,12 @@ Bike-Theft-Alert-System/
 │── README.md
 │── circuit_diagram.png
 │── components.jpg
-│── demo.mp4
+
+---
+
+Implementation Video
+
+https://github.com/user-attachments/assets/aa1da925-b2c1-4a30-9574-548930caf698
 
 ---
 
@@ -121,11 +126,6 @@ Future Enhancements
 
 ---
 
-License
-
-This project is released under the MIT License.
-
----
 
 Author
 
